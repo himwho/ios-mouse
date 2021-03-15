@@ -1,4 +1,4 @@
-GPL (Good Phil License)
+**GPL (Good Phil License)**
 
 Under strict Venmo + Text Message proof of receipt, himwho has been granted the right of development of software
 without limitation excluding distribution of binary or compiled sources to any distribution platform.
